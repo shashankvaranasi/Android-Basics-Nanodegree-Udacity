@@ -1,0 +1,83 @@
+<!--
+  ~ PROJECT LICENSE
+  ~
+  ~ This project was submitted by Shashank Varanasi as part of the Nanodegree At Udacity.
+  ~
+  ~ As part of Udacity Honor code, your submissions must be your own work, hence
+  ~ submitting this project as yours will cause you to break the Udacity Honor Code
+  ~ and the suspension of your account.
+  ~
+  ~ Me, the author of the project, allow you to check the code as a reference, but if
+  ~ you submit it, it's your own responsibility if you get expelled.
+  ~
+  ~ Copyright (c) 2020 Shashank Varanasi
+  ~
+  ~ Besides the above notice, the following license applies and this license notice
+  ~ must be included in all works derived from this project.
+  ~
+  ~ MIT License
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Quizarrio</string>
+    <string name="welcome"> Welcome to Quizarrio!</string>
+    <string name="q1">Q.1 How many computer languages are in use?</string>
+    <string name="q2">Q.2. Which of these is not an early computer?</string>
+    <string name="q3">Q.3. Who founded Apple Computer?</string>
+    <string name="q4">Q.4. Which of these is not a peripheral, in computer terms?</string>
+    <string name="q5">Q.5. Select all the early "protocols," or ways to use the Internet?</string>
+    <string name="q6">Q.6 .What does the Internet prefix WWW stand for?</string>
+    <string name="q7">Q.7. A network designed to allow communication within an organization is called:</string>
+    <string name="q1_o1">5000</string>
+    <string name="q1_o2">20</string>
+    <string name="q1_o3">2000</string>
+    <string name="q2_o1">Sage</string>
+    <string name="q2_o2">Nasa</string>
+    <string name="q2_o3">Eniac</string>
+    <string name="q3_o1">Bill Gates</string>
+    <string name="q3_o2">Steve Jobs</string>
+    <string name="q3_o3">Larry Page</string>
+    <string name="q4_o1">Monitor</string>
+    <string name="q4_o2">Motherboard</string>
+    <string name="q4_o3">Mouse</string>
+    <string name="q5_o1">Telnet</string>
+    <string name="q5_o2">FTP</string>
+    <string name="q5_o3">Blogging</string>
+    <string name="q6_o1">world wide web</string>
+    <string name="q6_o2">wide width wickets </string>
+    <string name="q6_o3">western washington world</string>
+    <string name="a6">world wide web</string>
+    <string name="q7_o1">internet</string>
+    <string name="q7_o2">yahoo </string>
+    <string name="q7_o3">intranet</string>
+<string name="sampleText">Type your answer here</string>
+    <string name="ButtonSubmit">Submit</string>
+    <string name="ButtonReset">Reset</string>
+
+
+
+
+
+
+
+
+</resources>
+
