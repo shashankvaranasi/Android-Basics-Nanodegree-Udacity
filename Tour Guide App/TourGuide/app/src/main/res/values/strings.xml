@@ -1,0 +1,111 @@
+<!--
+  ~ PROJECT LICENSE
+  ~
+  ~ This project was submitted by Shashank Varanasi as part of the Nanodegree At Udacity.
+  ~
+  ~ As part of Udacity Honor code, your submissions must be your own work, hence
+  ~ submitting this project as yours will cause you to break the Udacity Honor Code
+  ~ and the suspension of your account.
+  ~
+  ~ Me, the author of the project, allow you to check the code as a reference, but if
+  ~ you submit it, it's your own responsibility if you get expelled.
+  ~
+  ~ Copyright (c) 2020 Shashank Varanasi
+  ~
+  ~ Besides the above notice, the following license applies and this license notice
+  ~ must be included in all works derived from this project.
+  ~
+  ~ MIT License
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Tour Guide</string>
+<!--Category Data-->
+    <string name="category_hotel">Hotel</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="category_sight">Sight</string>
+    <string name="category_lake">Lakes</string>
+
+<!--Sight Data-->
+    <string name="sightName1">City Palace</string>
+    <string name="sightName2">Saheliyon Ki Bari</string>
+    <string name="sightName3">Bagore Ki Haveli</string>
+    <string name="sightName4">Vintage Car Museum</string>
+
+    <string name="addressSight1">Old City, Udaipur, Rajasthan 313001</string>
+    <string name="addressSight2">Saheli Marg, New Fatehpura, Panchwati, Udaipur, Rajasthan 313001</string>
+    <string name="addressSight3">Gangaur Ghat Marg, Hotel Gangaur Palace, Silawatwari, Udaipur, Rajasthan 313001</string>
+    <string name="addressSight4">Gulab Bagh Rd, near by The Garden Hotel, Old City, Shakti Nagar, Udaipur, Rajasthan 313001</string>
+
+    <string name="descriptionSight1">City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur.The palace is located on the east bank of Lake Pichola and has several palaces built within its complex.</string>
+    <string name="descriptionSight2">Saheliyon-ki-Bari is a major garden and a popular tourist space in Udaipur in the Indian state of Rajasthan. It lies in northern part of the city and has fountains and kiosks, a lotus pool and marble elephants. It was built by Rana Sangram Singh. There is also a small museum here. </string>
+    <string name="descriptionSight3">Bagore-ki-Haveli is a haveli in Udaipur in Rajasthan state in India. It is right on the waterfront of Lake Pichola at Gangori Ghat. Amar Chand Badwa, the Prime Minister of Mewar, built it in the eighteenth century.</string>
+    <string name="descriptionSight4">Vintage and Classic Car Museum is a car museum in Udaipur in Rajasthan state in India, having some of the rarest classic and vintage car collection. This museum is owned by Arvind Singh Mewar.</string>
+
+<!--Restaurant Data-->
+    <string name="restaurantName1">Aravali Lakeview by Radisson Blu Udaipur</string>
+    <string name="restaurantName2">Myra by Ramada Udaipur Resort &amp; Spa</string>
+    <string name="restaurantName3">Khamma Ghani Restaurant</string>
+    <string name="restaurantName4">Jaiwana Haveli Roof Top Restaurant</string>
+
+    <string name="addressRestaurant1">Malla Talai, Udaipur, Rajasthan 313001</string>
+    <string name="addressRestaurant2">Rampura Circle Khodiyat Road, Udaipur, Rajasthan 313001</string>
+    <string name="addressRestaurant3">No 53, Near Hotel Natural Lake View, Rang Sagar, Ambamata, Udaipur, Rajasthan 313001</string>
+    <string name="addressRestaurant4">14, Lal Ghat Road, Near Jagdish mandir, Old City, Udaipur, Rajasthan 313001</string>
+
+    <string name="descriptionRestaurant1">Italian, North Indian, Lebanese</string>
+    <string name="descriptionRestaurant2">Italian, Chinese, Indian, Asian, International</string>
+    <string name="descriptionRestaurant3">Local cuisine, Indian, International, Barbecue, Asian, Vegetarian Friendly</string>
+    <string name="descriptionRestaurant4">Local cuisine, Indian, Asian, Vegetarian Friendly, Vegan Options</string>
+
+<!--Hotels Data-->
+    <string name="hotelName1">The Leela Palace Udaipur</string>
+    <string name="hotelName2">The Oberoi Udaivilas</string>
+    <string name="hotelName3">Blu Feather Hotel &amp; Spa Udaipur</string>
+    <string name="hotelName4">Hotel Swaroop Vilas</string>
+
+    <string name="addressHotel1">The Leela Palace Udaipur Lake Pichola, PO Box No. 125, Udaipur 313 001, Rajasthan, India </string>
+    <string name="addressHotel2">The Oberoi Udaivilas, Lake Pichola, Udaipur 313001, India</string>
+    <string name="addressHotel3">No. 4 Pratap Nagar Rd, Sukher Rd, Bhuwana, Udaipur, Rajasthan 313001</string>
+    <string name="addressHotel4">No 6 Ambavgarh Opposite Lake Swaroop Sagar, Rajasthan 313001</string>
+
+    <string name="descriptionHotel1">Located by the tranquil Lake Pichola and flanked by the views of the Aravalli mountain range, The Leela Palace Udaipur is a modern palace hotel which evokes the grandeur and opulence of the Land of the Mewar.</string>
+    <string name="descriptionHotel2">Falling in love with the charm of the “City of Lakes” is easy when you are staying at the best hotel in Udaipur: The Oberoi Udaivilas. Located on the banks of Lake Pichola, our 5 star hotel is spread over 30 acres of luxuriant gardens, with an intricate layout of interconnecting domes and corridors that reflect the layout of Udaipur itself; whose seven lakes are linked by canals.</string>
+    <string name="descriptionHotel3">Set in Udaipur, Blu Feather Hotel &amp; Spa is 7 km from Jagdish temple and offers facilities like outdoor swimming pool. The property features a bar, as well as a restaurant. Local points of interest like Bagore ki Haveli and City Palace of Udaipur are reachable within 7 km and 7 km, respectively.</string>
+    <string name="descriptionHotel4">Situated opposite Lake Swaroop Sagar, this boutique heritage hotel has become synonymous with affordable luxury for international and domestic guests alike. Be charmed by the hotel’s exquisite heritage architecture and pampered by its modern conveniences. In addition to the comfort of your room, enjoy a swim, massage, sauna, shopping in the hotel shop and signature Rajasthani cuisine in the hotel restaurants.</string>
+
+<!--Lakes Data-->
+    <string name="lakeName1">Fatehsagar Lake</string>
+    <string name="lakeName2">Lake Pichola</string>
+    <string name="lakeName3">Udai Sagar Lake</string>
+    <string name="lakeName4">Rajsamand Lake</string>
+
+    <string name="addressLake1">Dewali, Udaipur, Rajasthan, 313001, India</string>
+    <string name="addressLake2">Rameshwar Ghat, City Palace Complex, Udaipur, Rajasthan, 313001, India</string>
+    <string name="addressLake3">Udai Sagar Lake, Udaipur, Rajasthan 313001, India</string>
+    <string name="addressLake4">Located between Rajnagar and Kankroli, just 66 km on the north of Udaipur.</string>
+
+    <string name="descriptionLake1">Fateh Sagar Lake is situated in the city of Udaipur in the Indian state of Rajasthan. It is an artificial lake named after Maharana Fateh Singh of Udaipur and Mewar, constructed north-west of Udaipur, to the north of Lake Pichola in the 1680s.</string>
+    <string name="descriptionLake2">Lake Pichola, situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake, created in the year 1362 AD, named after the nearby Picholi village.</string>
+    <string name="descriptionLake3">Udaisagar Lake, one of the five prominent lakes of Udaipur, is situated around 13 km in the east of Udaipur. This lake was built by Maharana Udai Singh in 1565.</string>
+    <string name="descriptionLake4">Rajsamand Lake (also known as Rajsamudra Lake) is a lake near the town of Rajsamand in the Indian state of Rajasthan. Built in the 1660 by Rana Raj Singh, it is approximately 1.75 miles (2.82 km) wide, 4 miles (6.4 km) long and 60 feet (18 m) deep.</string>
+
+</resources>
