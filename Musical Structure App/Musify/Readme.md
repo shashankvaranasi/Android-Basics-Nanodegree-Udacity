@@ -1,5 +1,4 @@
 Screenshots:
-<div style="width:60px ; height:60px">
 ![Screenshot_20221022-182729_Musify](https://user-images.githubusercontent.com/41737784/197343300-d89d209c-8ba4-4686-96f3-360a2307adf5.jpg)
 <div>
 ![Screenshot_20221022-182803_Musify](https://user-images.githubusercontent.com/41737784/197343303-c6698e36-39d8-4c01-b63a-bde2129199b1.jpg)
