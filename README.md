@@ -1,4 +1,6 @@
-# Android-Basics-NanodegreePROJECT LICENSE
+# Android-Basics-Nanodegree
+
+PROJECT LICENSE
 
 This project was submitted by Shashank Varanasi as part of the Nanodegree At Udacity.
 
